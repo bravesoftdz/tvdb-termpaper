@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.05.28 17:00:19.302.dproj,C:\Users\sbmaxx\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase.dproj</Transaction>
+    <Transaction>2009.05.28 17:00:28.805.dproj,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase.dproj=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\TVDatabase.dproj</Transaction>
+    <Transaction>2009.05.28 17:28:43.512.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\DataModule.pas</Transaction>
+    <Transaction>2009.05.28 17:28:43.512.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\DataModule.dfm</Transaction>
+    <Transaction>2009.05.28 18:43:26.895.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\MainForm.pas</Transaction>
+    <Transaction>2009.05.28 18:43:26.895.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\MainForm.dfm</Transaction>
+    <Transaction>2009.05.29 11:51:47.798.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\AuthenticationForm.pas</Transaction>
+    <Transaction>2009.05.29 11:51:47.798.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\AuthenticationForm.dfm</Transaction>
+    <Transaction>2009.05.29 13:12:22.542.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\LockForm.pas</Transaction>
+    <Transaction>2009.05.29 13:12:22.542.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\LockForm.dfm</Transaction>
+    <Transaction>2009.05.29 13:36:49.927.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\UserProfile.pas</Transaction>
+    <Transaction>2009.05.29 13:36:49.927.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\UserProfile.dfm</Transaction>
+    <Transaction>2009.05.29 15:26:20.079.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ThanksForm.pas</Transaction>
+    <Transaction>2009.05.29 15:26:20.079.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ThanksForm.dfm</Transaction>
+    <Transaction>2009.05.29 15:42:10.242.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ThanksForm.pas=</Transaction>
+    <Transaction>2009.05.29 15:42:10.242.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ThanksForm.dfm=</Transaction>
+    <Transaction>2009.05.29 15:42:18.406.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ThanksForm.pas</Transaction>
+    <Transaction>2009.05.29 15:42:18.406.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ThanksForm.dfm</Transaction>
+    <Transaction>2009.05.29 20:35:26.560.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=</Transaction>
+    <Transaction>2009.05.29 20:35:26.561.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=</Transaction>
+    <Transaction>2009.06.10 19:04:04.019.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\AboutForm.pas</Transaction>
+    <Transaction>2009.06.10 19:04:04.019.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\AboutForm.dfm</Transaction>
+    <Transaction>2009.06.26 20:11:55.828.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Utils.pas</Transaction>
+    <Transaction>2009.06.26 21:45:52.946.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\DonationForm.pas</Transaction>
+    <Transaction>2009.06.26 21:45:52.946.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\DonationForm.dfm</Transaction>
+    <Transaction>2009.06.30 12:18:18.937.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ScheduleDetailForm.pas</Transaction>
+    <Transaction>2009.06.30 12:18:18.937.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ScheduleDetailForm.dfm</Transaction>
+    <Transaction>2009.06.30 12:19:01.162.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ScheduleDetailExtremeForm.pas</Transaction>
+    <Transaction>2009.06.30 12:19:01.162.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ScheduleDetailExtremeForm.dfm</Transaction>
+    <Transaction>2009.06.30 15:55:53.310.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ScheduleReport.pas</Transaction>
+    <Transaction>2009.06.30 15:55:53.310.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ScheduleReport.dfm</Transaction>
+    <Transaction>2009.06.30 17:19:34.989.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ProgressBarForm.pas</Transaction>
+    <Transaction>2009.06.30 17:19:34.989.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ProgressBarForm.dfm</Transaction>
+    <Transaction>2009.07.01 10:07:21.620.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ScheduleReport.pas=</Transaction>
+    <Transaction>2009.07.01 10:07:21.620.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ScheduleReport.dfm=</Transaction>
+    <Transaction>2009.07.03 22:37:32.897.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ScheduleDetailForm.pas=</Transaction>
+    <Transaction>2009.07.03 22:37:32.897.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ScheduleDetailForm.dfm=</Transaction>
+    <Transaction>2009.07.04 17:28:44.577.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Report.pas</Transaction>
+    <Transaction>2009.07.05 02:05:24.476.pas,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.pas=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ReportSeriesForm.pas</Transaction>
+    <Transaction>2009.07.05 02:05:24.476.dfm,C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\Unit1.dfm=C:\Users\sbmaxx\Documents\RAD Studio\Projects\TVDatabase\ReportSeriesForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

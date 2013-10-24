@@ -1,0 +1,3 @@
+@echo off
+echo Mysql shutdown...
+mysql\bin\mysqladmin --user=pma --password= shutdown
